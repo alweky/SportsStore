@@ -16,3 +16,8 @@ C:\Users\Kevin\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\System.
 C:\Users\Kevin\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Users\Kevin\Documents\GitHub\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\Users\Kevin\Documents\GitHub\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\Kevin\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Kevin\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Kevin\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kevin\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Kevin\Documents\GitHub\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
